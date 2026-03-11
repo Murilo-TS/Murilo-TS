@@ -11,7 +11,7 @@ Estou disposto para conexões, feedbacks e dicas
 ## 🗄️ Criação e Gerenciamento de Banco de Dados:
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-## ☁️ Cloud / DevOps
+## ☁️ Cloud / DevOps (aprendendo)
 <img src="https://skillicons.dev/icons?i=docker" />
 
 ## 👥 Contato
