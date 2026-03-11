@@ -6,7 +6,7 @@ Estou disposto para conexões, feedbacks e dicas
 
 
 ## 💻 Tecnologias que estou aprendendo
-<img src="https://skillicons.dev/icons?i=html,css,js,java,c,python,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,c,python,git,vscode" />
 
 ## 🗄️ Criação e Gerenciamento de Banco de Dados:
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
